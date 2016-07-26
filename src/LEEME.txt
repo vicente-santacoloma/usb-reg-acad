@@ -1,0 +1,30 @@
+Se publica el siguiente esqueleto a seguir para la
+segunda entrega del proyecto. Se agradece adaptar su
+implementaci'on a esta versi'on. Para esto, copie en
+los espacios dejados en cada m'etodo el cuerpo de los
+m'etodos que usted implement'o.
+
+N'otese que se especifican las excepciones que usted
+debe manejar. Se colocan las clases correspondientes
+a estas en la carpeta regAcadUtil.
+
+Adem'as, contar'an con la clase InfoAcad, en la cual
+adem'as del tipo, se coloca una serie de funciones
+utilizadas en el modelo concreto. Debe utilizar esta
+y no su versi'on de InfoAcad.
+
+Igualmente se publica un modelo abstracto que debe
+seguir su proyecto. Esto no deber'ia significar un
+mayor problema dado que cuentan con la relaci'on de
+acoplamiento.
+
+En resumen, debe utilizar este esqueleto. Copie el
+cuerpo de implementaci'on de sus m'etodos en los
+espacios dejados para cada uno. Debe ser cuidadoso
+en seguir el manejo de excepciones que se pide.
+
+Cualquier duda o error se agradece comunicarlo a
+cualquiera de los profesores, preferiblemente al
+profesor encargado del documento en donde encontr'o
+el error, puede ver esto en el encabezado del
+documento.
